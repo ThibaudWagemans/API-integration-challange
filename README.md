@@ -14,5 +14,4 @@ Set-ExecutionPolicy RemoteSigned
 python tmdb.py
 ```
 
-Movie to search for: **Spiderman**
 # API-integration-challange
